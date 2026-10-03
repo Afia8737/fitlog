@@ -1,4 +1,4 @@
-import { Clock, Flame, Star } from "lucide-react";
+
 
 export default function Stats({ workout }) {
   return (
