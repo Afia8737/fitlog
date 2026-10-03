@@ -4,6 +4,7 @@ export default function Hero() {
   return (
     <section className="mx-auto max-w-7xl px-4 pt-8 sm:px-6">
       <div className="grid items-center gap-8 overflow-hidden rounded-2xl border border-line bg-black p-6 sm:p-10 lg:grid-cols-2">
+
         <div className="space-y-6">
           <p className="text-sm font-bold tracking-[0.3em] text-accent">WORKOUT LIBRARY</p>
           <h1 className="font-display text-5xl font-bold uppercase leading-tight sm:text-6xl">
