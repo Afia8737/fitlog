@@ -1,5 +1,4 @@
-import Link from "next/link";
-import Stats from "./Stats";
+
 
 export default function WorkoutCard({ workout }) {
   return (
